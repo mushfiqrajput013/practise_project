@@ -1,0 +1,53 @@
+div{
+  width:150px;
+  height:280px;  
+ box-shadow: 5px 5px 5px rgba(0,0,0,0.15);
+ display:inline-block;
+ vertical-align:top;
+
+}
+img{
+  width:150px;
+  height: 150px;
+  object-fit: cover;
+  display:inline-block;
+  
+}
+.messi{
+  font-weight:bold;
+  
+
+}
+.desc{
+  color:grey;
+  display: inline-block;
+  vertical-align: middle;
+  
+}
+button{
+  background-color: rgb(24, 119, 242);
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
+.mushfiq{
+  margin-left:10px
+}
+.tayyab{
+  margin-left:10px;
+}
+.blade{
+  width:30px;
+  height: 30px;
+  border-radius:15px;
+ 
+  vertical-align: middle;
+  
+}
